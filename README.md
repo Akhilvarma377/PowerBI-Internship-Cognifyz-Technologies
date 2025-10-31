@@ -13,7 +13,7 @@ To apply data analytics and visualization skills to real-world datasets by creat
 
 ## 🗂️ Task 1 — Data Cleaning & Preparation
 
-Imported and transformed raw CSV datasets in Power Query.
+** Imported and transformed raw CSV datasets in Power Query.
 
 Removed duplicates, handled missing values, and standardized data types.
 
