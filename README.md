@@ -13,51 +13,51 @@ To apply data analytics and visualization skills to real-world datasets by creat
 
 ## 🗂️ Task 1 — Data Cleaning & Preparation
 
-** Imported and transformed raw CSV datasets in Power Query.
+🔹 Imported and transformed raw CSV datasets in Power Query.
 
-Removed duplicates, handled missing values, and standardized data types.
+🔹 Removed duplicates, handled missing values, and standardized data types.
 
-Built structured data models for dashboard development.
+🔹 Built structured data models for dashboard development.
 
 ## 📈 Task 2 — Sales Performance Dashboard
 
-Created KPIs for Total Sales, Average Sales, and Profit Margin.
+🔹 Created KPIs for Total Sales, Average Sales, and Profit Margin.
 
-Designed charts to visualize sales by region, category, and time period.
+🔹 Designed charts to visualize sales by region, category, and time period.
 
-Implemented slicers and filters for dynamic exploration.
+🔹 Implemented slicers and filters for dynamic exploration.
 
 ## 🏬 Task 3 — Outlet Analysis
 
-Compared outlets by Size (Small/Medium/Large) and Location (Tier 1–3).
+🔹 Compared outlets by Size (Small/Medium/Large) and Location (Tier 1–3).
 
-Identified top-performing stores and underperforming areas.
+🔹 Identified top-performing stores and underperforming areas.
 
-Used bar charts, pie charts, and maps for clear insights.
+🔹 Used bar charts, pie charts, and maps for clear insights.
 
 ## 🍎 Task 4 — Product Category Insights
 
-Analyzed sales and ratings by product categories like Snacks, Fruits, Frozen, Household, etc.
+🔹 Analyzed sales and ratings by product categories like Snacks, Fruits, Frozen, Household, etc.
 
-Highlighted best-selling and least-selling products.
+🔹 Highlighted best-selling and least-selling products.
 
 ## 📊 Task 5 — Year-wise Trends
 
-Visualized year-wise sales from 2010–2022.
+🔹 Visualized year-wise sales from 2010–2022.
 
-Detected patterns and growth trends using line charts.
+🔹 Detected patterns and growth trends using line charts.
 
 ## ⭐ Task 6 — Ratings & Feedback Dashboard
 
-Analyzed average customer ratings per outlet and product.
+🔹 Analyzed average customer ratings per outlet and product.
 
-Connected ratings data with sales trends for performance correlation.
+🔹 Connected ratings data with sales trends for performance correlation.
 
 ## 🧠 Task 7 — Final Dashboard & Insights Report
 
-Combined all tasks into a unified interactive Power BI dashboard.
+🔹 Combined all tasks into a unified interactive Power BI dashboard.
 
-Summarized findings and business insights in a presentation-ready format.
+🔹 Summarized findings and business insights in a presentation-ready format.
 
 ## 🛠️ Tools & Skills Used
 
