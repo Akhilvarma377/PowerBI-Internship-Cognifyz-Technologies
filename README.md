@@ -10,6 +10,7 @@ Each task focused on a specific aspect of data cleaning, visualization, and stor
 To apply data analytics and visualization skills to real-world datasets by creating impactful dashboards and generating business insights.
 
 ## 🧩 Tasks Overview
+
 ## 🗂️ Task 1 — Data Cleaning & Preparation
 
 Imported and transformed raw CSV datasets in Power Query.
@@ -60,43 +61,50 @@ Summarized findings and business insights in a presentation-ready format.
 
 ## 🛠️ Tools & Skills Used
 
-Power BI – Dashboard creation & data visualization
+1.Power BI – Dashboard creation & data visualization
 
-Power Query – Data cleaning & transformation
+2.Power Query – Data cleaning & transformation
 
-DAX – Calculated columns, measures & KPIs
+3.DAX – Calculated columns, measures & KPIs
 
-Excel / CSV – Data preparation
+4.Excel / CSV – Data preparation
 
-Data Storytelling – Deriving insights for business improvement
+5.Data Storytelling – Deriving insights for business improvement
 
 ## 📂 Files in Repository
-File Name	Description
-Cognifyz_PowerBI.pbix	Power BI project file
-Dashboard.png	Screenshot of final dashboard
-Tasks_Report.pdf	Summary report of all tasks
-README.md	Project documentation
+1.File Name	Description
+
+2.Cognifyz_PowerBI.pbix	Power BI project file
+
+3.Dashboard.png	Screenshot of final dashboard
+
+4.Tasks_Report.pdf	Summary report of all tasks
+
+5.README.md	Project documentation
 
 ## 🚀 How to Use
 
-Download the .pbix file.
+1.Download the .pbix file.
 
-Open it in Power BI Desktop.
+2.Open it in Power BI Desktop.
 
-Refresh the dataset if needed.
+3.Refresh the dataset if needed.
 
-Interact with the visuals using slicers and filters.
+4.Interact with the visuals using slicers and filters.
 
 ## 💡 Key Learnings
 
 🔹 Practical understanding of end-to-end dashboard development.
+
 🔹 Enhanced data modeling and KPI creation using DAX.
+
 🔹 Improved storytelling through clean and interactive visuals.
+
 🔹 Experience with professional reporting and business insights.
 
 ## 🔗 Connect with Me
 
- **LinkedIn** :<a href="https://www.linkedin.com/in/akhilvarma8/">linkedin </a>
+   **LinkedIn** :<a href="https://www.linkedin.com/in/akhilvarma8/">linkedin </a>
 -  **Email**   :(siddiakhilvarma@gmail.com)
 
 
