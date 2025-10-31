@@ -61,36 +61,36 @@ Summarized findings and business insights in a presentation-ready format.
 
 ## 🛠️ Tools & Skills Used
 
-1.Power BI – Dashboard creation & data visualization
+1. Power BI – Dashboard creation & data visualization
 
-2.Power Query – Data cleaning & transformation
+2. Power Query – Data cleaning & transformation
 
-3.DAX – Calculated columns, measures & KPIs
+3. DAX – Calculated columns, measures & KPIs
 
-4.Excel / CSV – Data preparation
+4. Excel / CSV – Data preparation
 
-5.Data Storytelling – Deriving insights for business improvement
+5. Data Storytelling – Deriving insights for business improvement
 
 ## 📂 Files in Repository
-1.File Name	Description
+1. File Name	Description
 
-2.Cognifyz_PowerBI.pbix	Power BI project file
+2. Cognifyz_PowerBI.pbix	Power BI project file
 
-3.Dashboard.png	Screenshot of final dashboard
+3. Dashboard.png	Screenshot of final dashboard
 
-4.Tasks_Report.pdf	Summary report of all tasks
+4. Tasks_Report.pdf	Summary report of all tasks
 
-5.README.md	Project documentation
+5. README.md	Project documentation
 
 ## 🚀 How to Use
 
-1.Download the .pbix file.
+1. Download the .pbix file.
 
-2.Open it in Power BI Desktop.
+2. Open it in Power BI Desktop.
 
-3.Refresh the dataset if needed.
+3. Refresh the dataset if needed.
 
-4.Interact with the visuals using slicers and filters.
+4. Interact with the visuals using slicers and filters.
 
 ## 💡 Key Learnings
 
@@ -104,7 +104,7 @@ Summarized findings and business insights in a presentation-ready format.
 
 ## 🔗 Connect with Me
 
-   **LinkedIn** :<a href="https://www.linkedin.com/in/akhilvarma8/">linkedin </a>
+  - **LinkedIn** :<a href="https://www.linkedin.com/in/akhilvarma8/">linkedin </a>
 -  **Email**   :(siddiakhilvarma@gmail.com)
 
 
